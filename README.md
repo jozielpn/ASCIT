@@ -1,2 +1,5 @@
-# ASCIT
-Trabalho de Conclusão de Curso
+### Aplicação dos Algoritmos SIFT e SURF na Classificação de Sub-Imagens por Discriminação de Textura
+___
+A segmentação de imagens está presente no desenvolvimento de muitas tecnologias e aplicações. A proposta deste trabalho é avaliar e comparar o desempenho dos algoritmos SIFT e SURF em um processo de classificação de sub-imagens, onde esta classificação é feita considerando as diferentes texturas da imagem. Para a proposta deste trabalho, as texturas da imagem podem ser naturais, com comportamentos aleatórios e complexos, ou formada por objetos similares de natureza complexa. Este trabalho pode ser útil para auxiliar em processos de segmentação de imagens. No desenvolvimento deste trabalho são utilizadas redes neurais artificiais para classificar os vetores descritores gerados com os algoritmos SIFT e SURF, quando aplicados em diferentes sub-imagens. As redes neurais utilizadas são do tipo SOM, portanto, utilizam um aprendizado não-supervisionado em seu treinamento. O treinamento das redes neurais é feito com padrões de entrada gerados através dos algoritmos SIFT e SURF ao serem aplicados em algumas sub-imagens. Para a realização do trabalho foram feitos estudos sobre métodos de segmentação de imagens, redes neurais artificiais e o funcionamento dos algoritmos SIFT e SURF.
+___
+[Saiba Mais](http://hdl.handle.net/11077/1594)
